@@ -1,8 +1,8 @@
-https://github.com/LegoEduNZ/ibot/blob/master/Intro1.html
+
 <h1 align = "center">陈老师机器人培训教室</h1>
 <h2 align = "center">乐高机器人及计算机编程语言教学介绍</h2>
 
-<div style="width:680px; margin:auto">
+<div style="width:380px; margin:auto">
 <font size="3">
 <a href="https://legoedunz.github.io/ibot/Intro1.html">1. 乐高机器人简介</a> 
 <br>
