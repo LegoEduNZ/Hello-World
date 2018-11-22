@@ -13,7 +13,7 @@
 <a href="https://legoedunz.github.io/ibot/Intro4.html">4. 新西兰乐高机器人比赛介绍</a>
 <br>
 <a href="https://legoedunz.github.io/ibot/Intro5.html">5. 陈老师机器人培训教室授课语言</a>
-<p>
+<p><br>
 
 <h3>学生们在上课</h3>
 <img src="https://raw.githubusercontent.com/wiki/LegoEduNZ/ibot/p0.jpg"  alt="学生们在上课" />
