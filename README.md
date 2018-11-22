@@ -4,7 +4,7 @@
 
 <div style="width:750px; margin:auto">
 <font size="3">
-<a href="https://legoedunz.github.io/ibot/Intro1.html">1. 乐高机器人简介</a> 
+<a href="https://legoedunz.github.io/ibot/Intro1.html" style="color:blue;">1. 乐高机器人简介</a> 
 <br>
 <a href="https://legoedunz.github.io/ibot/Intro2.html">2. 陈老师机器人培训教室简介</a>
 <br>
