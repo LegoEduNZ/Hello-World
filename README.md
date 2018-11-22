@@ -16,5 +16,5 @@
 <p>
 </font>
 <h3>学生们在上课</h3>
-<img src="https://raw.githubusercontent.com/wiki/LegoEduNZ/ibot/p0.jpg"  alt="学生们在上课" ></img>
+<img src="https://raw.githubusercontent.com/wiki/LegoEduNZ/ibot/p0.jpg"  alt="学生们在上课" />
 </div>
