@@ -14,7 +14,8 @@
 <br>
 <a href="https://legoedunz.github.io/ibot/Intro5.html">5. 陈老师机器人培训教室授课语言</a>
 <p>
-</font>
+
 <h3>学生们在上课</h3>
 <img src="https://raw.githubusercontent.com/wiki/LegoEduNZ/ibot/p0.jpg"  alt="学生们在上课" />
+</font>
 </div>
