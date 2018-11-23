@@ -1,5 +1,3 @@
-
-<h1 align = "center">陈老师机器人培训教室</h1>
 <h2 align = "center">乐高机器人及计算机编程语言教学介绍</h2>
 
 <div style="width:750px; margin:auto">
