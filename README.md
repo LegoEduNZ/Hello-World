@@ -13,8 +13,10 @@
 <a href="https://legoedunz.github.io/ibot/Intro5.html" style="color:blue;">5. 陈老师机器人培训教室授课语言</a>
 <br>
 <a href="https://legoedunz.github.io/ibot/Intro5.html" style="color:blue;">6. 比赛训练和参赛实战影视片段</a>
-<p>
+<br>
+<br>
 
 <h3><font color="black">学生们在上课</font></h3>
 <img src="https://raw.githubusercontent.com/wiki/LegoEduNZ/ibot/p0.jpg"  alt="学生们在上课" />
+</div>
 
