@@ -1,4 +1,4 @@
-<div style="position:relative; left:150px; top:0px">
+<div style="position:relative; left:0px; top:0px">
 	<img height="120" width="650" src="https://raw.githubusercontent.com/wiki/LegoEduNZ/ibot/head2.jpg" />
 </div>
 
