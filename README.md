@@ -1,6 +1,9 @@
-<h2 align = "center">乐高机器人及计算机编程语言教学介绍</h2>
+<div style="position:relative; left:150px; top:0px">
+	<img height="120" width="650" src="./head2.jpg" />
+</div>
 
-<div style="width:650px; margin:auto">
+<div style="position:relative; left:0px; top:0px; width:650px; margin:auto">
+<h2 align = "center">乐高机器人及计算机编程语言教学介绍</h2>
 <font size="3">
 <a href="https://legoedunz.github.io/ibot/Intro1.html" style="color:blue;">1. 乐高机器人简介</a> 
 <br>
@@ -11,6 +14,8 @@
 <a href="https://legoedunz.github.io/ibot/Intro4.html" style="color:blue;">4. 新西兰乐高机器人比赛介绍</a>
 <br>
 <a href="https://legoedunz.github.io/ibot/Intro5.html" style="color:blue;">5. 陈老师机器人培训教室授课语言</a>
+<br>
+<a href="https://legoedunz.github.io/ibot/Intro5.html" style="color:blue;">6. 比赛训练和参赛实战影视片段</a>
 <p>
 
 <h3><font color="black">学生们在上课</font></h3>
