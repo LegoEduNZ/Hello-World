@@ -1,5 +1,5 @@
 <div style="position:relative; left:150px; top:0px">
-	<img height="120" width="650" src="./head2.jpg" />
+	<img height="120" width="650" src="https://github.com/LegoEduNZ/ibot.wiki.git/head2.jpg" />
 </div>
 
 <div style="position:relative; left:0px; top:0px; width:650px; margin:auto">
