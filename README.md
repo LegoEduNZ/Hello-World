@@ -1,3 +1,5 @@
+<html>
+<body>
 <div style="width:750px; margin:auto">
 	<img height="120" width="750" src="https://raw.githubusercontent.com/wiki/LegoEduNZ/LegoEduNZ.github.io/head2.jpg" />
 
@@ -37,3 +39,5 @@
   </tr> 
   	</table>	  
 </footer>
+</body>
+</html>
