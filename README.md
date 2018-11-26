@@ -1,5 +1,5 @@
 <div style="position:relative; left:0px; top:0px; width:650px; margin:auto">
-<img height="120" width="650" src="https://raw.githubusercontent.com/wiki/LegoEduNZ/ibot/head2.jpg" />
+<img height="120" width="750" src="https://raw.githubusercontent.com/wiki/LegoEduNZ/ibot/head2.jpg" />
 <h2 align = "center">乐高机器人及计算机编程语言教学介绍</h2>
 <font size="3">
 <a href="https://legoedunz.github.io/ibot/Intro1.html" style="color:blue;">1. 乐高机器人简介</a> 
@@ -17,5 +17,5 @@
 <br>
 
 <h3><font color="black">学生们在上课</font></h3>
-<img width="650" src="https://raw.githubusercontent.com/wiki/LegoEduNZ/ibot/p0.jpg"  alt="学生们在上课" />
+<img width="750" src="https://raw.githubusercontent.com/wiki/LegoEduNZ/ibot/p0.jpg"  alt="学生们在上课" />
 
