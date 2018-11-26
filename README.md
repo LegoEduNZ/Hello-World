@@ -32,5 +32,6 @@
     <td style="border-top:none;border-bottom:none;border-left:0px;border-right:0px;">
 	联系电话：0219689953
 	</td>
-  </tr>   		
+  </tr> 
+  </table>	  
 </footer>
