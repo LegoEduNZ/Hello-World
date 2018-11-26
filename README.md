@@ -1,5 +1,6 @@
-<div style="position:relative; left:0px; top:0px; width:650px; margin:auto">
-<img height="120" width="750" src="https://raw.githubusercontent.com/wiki/LegoEduNZ/ibot/head2.jpg" />
+<div style="width:750px; margin:auto">
+	<img height="120" width="650" src="https://raw.githubusercontent.com/wiki/LegoEduNZ/ibot/head2.jpg" />
+
 <h2 align = "center">乐高机器人及计算机编程语言教学介绍</h2>
 <font size="3">
 <a href="https://legoedunz.github.io/ibot/Intro1.html" style="color:blue;">1. 乐高机器人简介</a> 
@@ -13,9 +14,9 @@
 <a href="https://legoedunz.github.io/ibot/Intro5.html" style="color:blue;">5. 陈老师机器人培训教室授课语言</a>
 <br>
 <a href="https://legoedunz.github.io/ibot/Intro5.html" style="color:blue;">6. 比赛训练和参赛实战影视片段</a>
-<br>
-<br>
+<p>
 
 <h3><font color="black">学生们在上课</font></h3>
-<img width="750" src="https://raw.githubusercontent.com/wiki/LegoEduNZ/ibot/p0.jpg"  alt="学生们在上课" />
+<img src="https://raw.githubusercontent.com/wiki/LegoEduNZ/ibot/p0.jpg"  alt="学生们在上课" />
+</div>
 
