@@ -18,3 +18,19 @@
 
 <h3><font color="black">学生们在上课</font></h3>
 <img src="https://raw.githubusercontent.com/wiki/LegoEduNZ/LegoEduNZ.github.io/p0.jpg"  alt="学生们在上课" />
+<footer>
+  <table border=0 style="width:100%">
+  <tr>
+    <td style="border-top:none;border-bottom:none;border-left:0px;border-right:0px;">
+	本网站由LegoEduNZ发布
+	</td>
+  </tr>
+  <tr>
+    <td style="border-top:none;border-bottom:none;border-left:0px;border-right:0px;">
+	联系邮箱: <a  href="cx4648@gmail.com">cx4648@gmail.com</a>
+	</td>
+    <td style="border-top:none;border-bottom:none;border-left:0px;border-right:0px;">
+	联系电话：0219689953
+	</td>
+  </tr>   		
+</footer>
