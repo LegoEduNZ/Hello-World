@@ -1,5 +1,3 @@
-<html>
-<body>
 <div style="width:750px; margin:auto">
 	<img height="120" width="750" src="https://raw.githubusercontent.com/wiki/LegoEduNZ/LegoEduNZ.github.io/head2.jpg" />
 
@@ -29,5 +27,3 @@
 	联系电话：021-9689953
   </p>	  
 </footer>
-</body>
-</html>
