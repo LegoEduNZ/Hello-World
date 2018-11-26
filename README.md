@@ -3,7 +3,7 @@
 
 <h2 align = "center">乐高机器人及计算机编程语言教学介绍</h2>
 <font size="4">
-<a href="https://legoedunz.github.io/Intro1.html" style="color:blue;">1. 乐高机器人简介</a> 
+<a href="https://legoedunz.github.io/LegoEduNZ.github.io/Intro1.html" style="color:blue;">1. 乐高机器人简介</a> 
 <br>
 <a href="https://legoedunz.github.io/Intro2.html" style="color:blue;">2. 陈老师机器人培训教室简介</a>
 <br>
