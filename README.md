@@ -30,7 +30,6 @@
 	联系邮箱: <a  href="cx4648@gmail.com">cx4648@gmail.com</a>
 	</td>
     <td style="border-top:none;border-bottom:none;border-left:0px;border-right:0px;">
-	 
 	 </td>		  
     <td style="border-top:none;border-bottom:none;border-left:0px;border-right:0px;">
 	联系电话：0219689953
