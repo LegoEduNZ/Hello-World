@@ -1,6 +1,6 @@
 <div style="width:750px; margin:auto">
 	<img height="120" width="750" src="https://raw.githubusercontent.com/wiki/LegoEduNZ/LegoEduNZ.github.io/head2.jpg" />
-<h4 align = "center">i = IT & bot = Robot</h4>
+<h4 align = "center">i = IT & bot = Robot &gt;&gt; ibot = IT+Robot</h4>
 <h2 align = "center">乐高机器人及计算机编程语言教学介绍</h2>
 <font size="4">
 <a href="https://legoedunz.github.io/Intro1.html" style="color:blue;">1. 乐高机器人简介</a> 
