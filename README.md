@@ -1,3 +1,6 @@
+<title>
+	Robot training-Robot course-New Zealand-Python course
+</title>
 <div style="width:750px; margin:auto">
 	<img height="120" width="750" src="https://raw.githubusercontent.com/wiki/LegoEduNZ/LegoEduNZ.github.io/head2.jpg" />
 <h2 align = "center">乐高机器人及计算机编程语言教学介绍</h2>
