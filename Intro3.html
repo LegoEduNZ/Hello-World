@@ -1,5 +1,5 @@
 <title>
-	Robot training-Robot course-New Zealand-Python course
+	Robot training-Robot course-New Zealand-NZ-Python course
 </title>
 <div style="width:750px; margin:auto">
 	<img height="120" width="750" src="https://raw.githubusercontent.com/wiki/LegoEduNZ/LegoEduNZ.github.io/head2.jpg" />
