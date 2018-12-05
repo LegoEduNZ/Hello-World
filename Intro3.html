@@ -1,10 +1,64 @@
+<html>
+<head>
+<meta http-equiv =X-UA-Compatible”content =“IE = edge”>
+<meta name="viewport" content="width=device-width, initial-scale=0">
+<style>
+body {
+  left:50px;
+  width:750px; 
+  #margin:auto;
+  background-color: #f1f1f1;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#navbar {
+  background-color: #6af;
+  position: fixed;
+  #position: centered;
+  top: -50px;
+  width: 750px;
+  display: block;
+  transition: top 0.3s;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 12px;
+  left: 50px;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+#navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+</style>
+</head>
+<body>
+
+<div id="navbar">
+  <a href="http://ibot.nz/index.html">首页</a>
+  <a href="http://ibot.nz/Intro2.html">关于我们</a>
+  <a href="http://ibot.nz/Intro1.html">机器人</a>
+  <a href="http://ibot.nz/Intro3.html">课程</a>
+  <a href="http://ibot.nz/Intro4.html">比赛</a>
+  <a href="http://ibot.nz/Intro5.html">授课语言</a>
+  <a href="http://ibot.nz/Intro6.html">影视片段</a>
+  <a href="http://ibot.nz/Intro7.html">联系我们</a>
+</div>
+
+<div style="padding: 2px 0px 2500px;font-size:30px">
 <title>
-	Robot training-Robot course-New Zealand-NZ-Python course
+	Robot training - Robotics course - New Zealand - NZ - Python course - IT course
 </title>
 <div style="width:750px; margin:auto">
-	<img height="120" width="750" src="https://raw.githubusercontent.com/wiki/LegoEduNZ/LegoEduNZ.github.io/head2.jpg" />
-
-<h2 align = "center">陈老师机器人培训教室课程简介</h2>
+	<img height="120" width="750" src="http://ibot.nz/images/head2.jpg" />
+<h2 align = "center">陈老师机器人培训课程简介</h2>
 
 <font size="4">
 三、 我们的教学分为：乐高基础班，乐高比赛班和Python语言班，乐高班招收9到14岁的孩子，Python语言班招收12到16岁的孩子。 基础班周期为40节课，每周一次，按照新西兰中小学学期节奏一年完成。授课结束后，如果孩子们愿意参加乐高机器人比赛，可以继续晋升比赛班。
@@ -15,7 +69,6 @@
 <h3>2018年度FLL新西兰全国赛冠军</h3>
 </font>
 <img src="https://raw.githubusercontent.com/wiki/LegoEduNZ/LegoEduNZ.github.io/p3.jpg"  alt="2018年度FLL新西兰全国赛冠军" width="750"></img>
-
 <footer>
   <p>
 	本网站由ibot-陈老师机器人&amp;计算机编程教室发布
@@ -25,4 +78,21 @@
 	联系电话：021-9689953
   </p>	  
 </footer>
+	</div>
 </div>
+
+<script>
+// When the user scrolls down 20px from the top of the document, slide down the navbar
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("navbar").style.top = "0";
+  } else {
+    document.getElementById("navbar").style.top = "-50px";
+  }
+}
+</script>
+
+</body>
+</html>
