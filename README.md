@@ -1,5 +1,5 @@
 <title>
-	Robot training - Robotics course - New Zealand - NZ - Python course - IT course
+	Robot class - Robotics course - New Zealand - NZ - Python course - IT course
 </title>
 <div style="width:750px; margin:auto">
 	<img height="120" width="750" src="http://ibot.nz/images/head2.jpg" />
