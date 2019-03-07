@@ -1,6 +1,7 @@
 <title>
 	Robot class - Robotics course - New Zealand - NZ - Python course - IT course
 </title>
+<meta name="viewport" content="我们教9到12岁的孩子学习乐高机器人的搭建和编程，并且在3年多的时间里取得了新西兰机器人比赛FLL和Robocup的多个冠军。教学使用中文普通话。We teach children aged 9 to 12 to learn the construction and programming of LEGO robots, and in more than three years have won several championships in the New Zealand robotics competition FLL and Robocup. Teaching uses Mandarin Chinese." />
 <div style="width:750px; margin:auto">
 	<img height="120" width="750" src="http://ibot.nz/images/head2.jpg" />
 <h2 align = "center">乐高机器人及计算机编程语言教学介绍</h2>
