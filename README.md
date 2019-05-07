@@ -26,7 +26,9 @@
 	本网站由ibot-陈老师机器人&amp;计算机编程教室发布
   </p>  
   <p>
-	联系邮箱: <a  href="cx4648@gmail.com">cx4648@gmail.com</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	联系邮箱: <a  href="cx4648@gmail.com">cx4648@gmail.com</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	  
+	  微信：caomin19690307&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	联系电话：027-9689953
   </p>	  
 </footer>
