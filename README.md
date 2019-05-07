@@ -27,6 +27,6 @@
   </p>  
   <p>
 	联系邮箱: <a  href="cx4648@gmail.com">cx4648@gmail.com</a>	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	联系电话：021-9689953
+	联系电话：027-9689953
   </p>	  
 </footer>
