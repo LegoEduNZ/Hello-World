@@ -1,8 +1,71 @@
-2021年陈老师乐高机器人培训课程时间安排：
+<html>
 
-第一学期：Feb 06,2021 - Apr 17,2021  共11次课
-第二学期：May 01,2021 - Jul 10,2021  共11次课
-第三学期：Jul 24,2021 - Sep 25,2021  共10次课
-第四学期：Oct 16,2021 - Dec 18,2021  共10次课
+<head>
+<title>
+ibot.nz-Robot training-Robotics course-New Zealand-NZ-Python course-IT course-Robot course-乐高-机器人-新西兰
+</title>
+<meta name="description" content="我们教9到12岁的孩子学习乐高机器人的搭建和编程，并且在3年多的时间里取得了新西兰机器人比赛FLL和Robocup的多个冠军。教学使用中文普通话。We teach children aged 9 to 12 to learn the construction and programming of LEGO robots, and in more than three years have won several championships in the New Zealand robotics competition FLL and Robocup. Teaching uses Mandarin Chinese." />
+<style type="text/css">
+body {
+  left:50px;
+  width:750px; 
+  margin:auto;
+  background-color: #f1f1f1;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-如有变化，随时在微信和WhatsApp中通知。
+#navbar {
+  background-color: #6af;
+  position: fixed;
+  #position: centered;
+  top: -50px;
+  width: 750px;
+  display: block;
+  transition: top 0.3s;
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 12px;
+  left: 50px;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+#navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+</style>
+</head>
+<body>
+
+<div id="navbar">
+  <a href="https://ibot.nz/index.html">首页</a>
+  <a href="https://ibot.nz/Intro2.html">我们</a>
+  <a href="https://ibot.nz/Intro1.html">机器人</a>
+  <a href="https://ibot.nz/Intro3.html">课程</a>
+  <a href="https://ibot.nz/Intro4.html">比赛</a>
+  <a href="https://ibot.nz/Intro5.html">授课语言</a>
+  <a href="https://ibot.nz/Intro6.html">影视片段</a>
+  <a href="https://ibot.nz/discuss.html">讨论</a>	
+  <a href="https://ibot.nz/Intro7.html">联系</a>
+</div>
+
+<div style="padding: 2px 0px 2500px;font-size:30px">
+<div style="width:750px; margin:auto">
+	<img height="120" width="750" src="http://ibot.nz/images/head2.jpg" />
+<h3 align = "center">2021年陈老师乐高机器人培训课程时间安排：</h3>
+<font size="4">
+第一学期：Feb 06,2021 - Apr 17,2021  共11次课<br>
+第二学期：May 01,2021 - Jul 10,2021  共11次课<br>
+第三学期：Jul 24,2021 - Sep 25,2021  共10次课<br>
+第四学期：Oct 16,2021 - Dec 18,2021  共10次课<br>
+<p>
+如有变化，随时在微信和WhatsApp中通知。<br></font>
+</div>
+</body></html>
